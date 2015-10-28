@@ -1,0 +1,7 @@
+
+			SINGLE PLAYER - CARROM BOARD
+
+1.The board contains 1red coin,4 white , 4 black coins.
+2.Striker is initially placed at the center of lower line with zero velocity.
+3.All other conventions are followed as mentioned in the assignment.
+
